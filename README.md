@@ -25,7 +25,7 @@
 
 ## 📬 Contact Me  
 
-- 📧 **Email:** [aniket.chauhan@example.com](mailto:aniket.chauhan@gmail.com)  
+- 📧 **Email:** [aniket.chauhan@gmail.com](mailto:rahulchauhanairapple@gmail.com)  
 - 💼 [LinkedIn](www.linkedin.com/in/aniket-c1)  
 - 🐦 [Twitter](https://twitter.com/aniketchauhan18)  
 - 🌐 [Portfolio](https://aniketchauhan.dev)  
