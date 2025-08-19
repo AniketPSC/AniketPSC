@@ -41,8 +41,9 @@ I made a little **Flappy Bird clone** — give it a try!
 
 ---
 
-### 3D Contributions
+### 🕹️ 3D Contributions
 <img src="./profile-3d-contrib/profile-green-animate.svg" alt="3D contribution graph" />
+
 
 
 ## 📬 Contact Me  
