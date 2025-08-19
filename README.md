@@ -23,16 +23,11 @@
 ---
 
 
-## 📬 Contact Me  
+## 🌐 Connect with me  
 
-- 📧 **Email:** [aniket.chauhan@gmail.com](mailto:rahulchauhanairapple@gmail.com)  
-- 💼 [LinkedIn](www.linkedin.com/in/aniket-c1)  
-- 🐦 [Twitter](https://twitter.com/aniketchauhan18)  
-- 🌐 [Portfolio](https://aniketchauhan.dev)
-- ## 🌐 Connect with me
+[<img src="https://skillicons.dev/icons?i=linkedin" height="40" />](https://www.linkedin.com/in/aniket-c1)
+[<img src="https://skillicons.dev/icons?i=gmail" height="40" />](mailto:rahulchauhanairapple@gmail.com)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aniket-c1)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rahulchauhanairapple@gmail.com)
 
 
 ---
