@@ -14,25 +14,6 @@
 
 ---
 
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
-
-## 🎮 Play With Me!  
-
-Yes, coding is fun… but games are fun too 😎.  
-I made a little **Flappy Bird clone** — give it a try!  
-
-<p align="center">
-  <a href="https://aniketchauhan18.github.io/flappy-bird/">
-    <img src="https://raw.githubusercontent.com/aniketchauhan18/flappy-bird/main/preview.gif" alt="Flappy Bird Demo" width="400"/>
-  </a>
-</p>
-
-
-
----
-
-<img src="https://raw.githubusercontent.com/username/username/branch/3d-contrib.svg" alt="3D Contribution Calendar" width="600"/>
-
 
 ## 🎉 Fun Zone  
 
