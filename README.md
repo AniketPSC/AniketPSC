@@ -25,8 +25,8 @@
 
 ## 📬 Contact Me  
 
-- 📧 **Email:** [aniket.chauhan@example.com](mailto:aniket.chauhan@example.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/aniketchauhan18)  
+- 📧 **Email:** [aniket.chauhan@example.com](mailto:aniket.chauhan@gmail.com)  
+- 💼 [LinkedIn](www.linkedin.com/in/aniket-c1)  
 - 🐦 [Twitter](https://twitter.com/aniketchauhan18)  
 - 🌐 [Portfolio](https://aniketchauhan.dev)  
 
